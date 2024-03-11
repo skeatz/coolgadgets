@@ -41,6 +41,18 @@
     * [Inventbox Tutorials](https://www.youtube.com/playlist?list=PL2935W76vRNEE_NNWlpUar20iUdkFQ1z2)
     * [CAD Sessions Onshape Beginner Tutorials](https://www.youtube.com/playlist?list=PLxmrkna-ixrIQmsPR3MITi4Ru1bnMH4-l)
     * [Wolf Dynamics Intro to Solid Modeling](http://www.wolfdynamics.com/wiki/onshape.pdf)
+  - [Tinkercad](https://www.tinkercad.com)
+    - 3D Design
+      - [Tinkercad Learn 3D Design](https://www.tinkercad.com/learn/designs?collectionId=OSZ5W2BL1W5N51F)
+      - [Tinkercad Learning Center: Gear](https://www.tinkercad.com/learn/overview/OLB40A7J0COYFJ6?collectionId=OSZ5W2BL1W5N51F&type=designs)
+      - [Tinkercad Learning Center: Pawn](https://www.tinkercad.com/learn/overview/O698ZZXIXGFTSXU?collectionId=undefined&type=designs)
+      - [Tinkercad Learning Center: Luggage tag](https://www.tinkercad.com/learn/overview/O0XHVHMIXGFO1D6?collectionId=undefined&type=TKCD)
+    - Circuits
+      - [Tinkercad Learn Circuits](https://www.tinkercad.com/learn/circuits)
+      - [Tinkercad Learning Center - Wiring components](https://www.tinkercad.com/learn/overview/OGK4Q7VL20FZRV9?type=circuits)
+      - [Tinkercad Learning Center - Introducing Breadboards](https://www.tinkercad.com/learn/overview/OPRHCXXL20FZS3N?type=circuits)
+      - [Tinkercad Learning Center - Ohm's Law](https://www.tinkercad.com/learn/overview/OOUF6LFL20FZS45?type=circuits)
+      - [Basics of Arduino with Tinkercad](https://www.tinkercad.com/projects/Basics-of-Arduino-TINKERCAD)   
   * [Fusion 360](https://www.autodesk.com/products/fusion-360/students-teachers-educators), [Inventor](https://www.autodesk.com.sg/products/inventor/overview)
     * [Autodesk Learn Fusion 360](https://f360ap.autodesk.com/courses)
     * [Warwick U Fusion 360](https://warwick.ac.uk/fac/sci/wmg/about/outreach/resources/fusion_tutorials/)
