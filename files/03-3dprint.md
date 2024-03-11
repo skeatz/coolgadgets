@@ -1,5 +1,5 @@
 ### 3D Printing Notes
-- [3D Printing DMCG slides](dmcg04_3dprint.pdf)
+- [DMCG 3D Printing slides](dmcg04_3dprint.pdf)
 - [3D printing lecture notes](https://skeatz.github.io/ep1000digfab/05_3d_printing/3d_printing.html)
 - [3D printing self-learning notes (requires Politemall access)](https://splms.polite.edu.sg/d2l/le/lessons/94979/topics/4250743)
 <br>
