@@ -32,7 +32,7 @@ Participants will be assessed on the following:
 - Design & fabricate a product that integrates 3D printing, laser cutting & embedded microcontroller board
  
 ## Notes
-1. [Introduction & Admin Instructions]()
+1. [Introduction & Admin Instructions](files/dmcg01_intro.pdf)
 2. [Fablab Safety & Assessment](https://splms.polite.edu.sg/d2l/le/lessons/94979/units/3648017)
 3. [Digital Fabrication & Fablab](files/dmcg02_digfab.pdf)
 4. [Computer Aided Design](files/02-cad.md)
