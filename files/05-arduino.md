@@ -31,7 +31,13 @@
 
 *Simulators*
 - [Tinkercad](https://www.tinkercad.com/)
-- [Tinkercad Circuit Tutorials](https://www.youtube.com/playlist?list=PLV6cmKvnKRs5geApVORPW79U6s3wpa0Ht)
+  - [Tinkercad Learn Circuits](https://www.tinkercad.com/learn/circuits)
+  - [Tinkercad Learning Center - Wiring components](https://www.tinkercad.com/learn/overview/OGK4Q7VL20FZRV9?type=circuits)
+  - [Tinkercad Learning Center - Introducing Breadboards](https://www.tinkercad.com/learn/overview/OPRHCXXL20FZS3N?type=circuits)
+  - [Tinkercad Learning Center - Ohm's Law](https://www.tinkercad.com/learn/overview/OOUF6LFL20FZS45?type=circuits)
+  - [Basics of Arduino with Tinkercad](https://www.tinkercad.com/projects/Basics-of-Arduino-TINKERCAD)   
+  - [Tinkercad Circuit Tutorials](https://www.youtube.com/playlist?
+    list=PLV6cmKvnKRs5geApVORPW79U6s3wpa0Ht)
 - [Wokwi](https://wokwi.com/)
 - [Circuitlab](https://www.circuitlab.com/)
 
