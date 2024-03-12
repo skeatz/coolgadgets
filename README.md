@@ -41,6 +41,9 @@ Participants will be assessed on the following:
 7. [Embedded Programming](files/05-arduino.md)
 8. [Mini-Project Challenge](files/mini-project.pdf)
 
+## Worksheet
+- [3D Printing & Laser Cutting worksheet](files/DMCG%20Worksheet.pdf)
+
 ## Mini-project Examples
 - [RGB Mood Lamp 1](https://makeitatyourlibrary.org/technology/how-make-led-ambient-mood-light-beginner-tutorial.html)
 - [RGB Mood Lamp 2](https://www.hackster.io/indoorgeek/led-mood-lamp-549636)
