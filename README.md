@@ -47,5 +47,7 @@ Participants will be assessed on the following:
 ## Mini-project Examples
 - [RGB Mood Lamp 1](https://makeitatyourlibrary.org/technology/how-make-led-ambient-mood-light-beginner-tutorial.html)
 - [RGB Mood Lamp 2](https://www.hackster.io/indoorgeek/led-mood-lamp-549636)
+- [Edge-lit LED Sign](https://www.instructables.com/Edge-Lit-Acrylic-Sign/)
+- [Photo-Lithophane](https://www.instructables.com/Make-a-Lithophane-Lamp/)
 - [Tea Machine Part 1](https://homepages.uc.edu/~morriea/teamachine.html)
 - [Tea Machine Part 2](https://eamdesigns.com/tea-machine-pt1-arduino-based-prototyping)
