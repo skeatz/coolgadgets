@@ -39,7 +39,7 @@ Participants will be assessed on the following:
 5. [3D Printing](files/03-3dprint.md)
 6. [Laser Cutting](files/04-lasercutting.md)
 7. [Embedded Programming](files/05-arduino.md)
-8. [Mini-Project Challenge](files/mini-project.pdf)
+8. [Mini-Project Challenge](files/dmcg06_mission.pdf)
 
 ## Worksheet
 - [3D Printing & Laser Cutting worksheet](files/DMCG%20Worksheet.pdf)
